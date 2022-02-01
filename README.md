@@ -16,6 +16,8 @@ My Google Chrome version is: 'Version 97.0.4692.99 (Official Build) (64-bit)'
 
 For accessing APIs, use postman which can be downloaded from: https://www.postman.com/downloads/
 
+For accessing Jupyter notebook instance online: https://jupyter.org/try
+
 References:
 1. https://realpython.com/python-web-scraping-practical-introduction/ 
 2. 
