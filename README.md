@@ -22,3 +22,4 @@ References:
 1. https://realpython.com/python-web-scraping-practical-introduction/ 
 2. https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ
 3. https://www.analyticsvidhya.com/blog/2021/12/text-classification-of-news-articles/
+4. https://www.kaggle.com/c/learn-ai-bbc/data
