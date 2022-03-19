@@ -9,13 +9,14 @@ Selenium Documentation: https://selenium-python.readthedocs.io/
 
 Installation instructions for Selenium:
 
-Installation instructions: 1) pip install selenium 2) Download chrome web driver from "https://sites.google.com/chromium.org/driver/downloads?authuser=0"
+Installation instructions: 1) `pip install selenium` 2) Download chrome web driver from "https://sites.google.com/chromium.org/driver/downloads?authuser=0"
 
 My Google Chrome version is: 'Version 97.0.4692.99 (Official Build) (64-bit)'
 
-If you are using MacBook, for the first time you would need to unquarantine the chrome driver. Open a terminal window at the location you have kept your chromedriver. The command you can use to do so is:
-xattr -d com.apple.quarantine chromedriver
-Refer: https://stackoverflow.com/questions/60362018/macos-catalinav-10-15-3-error-chromedriver-cannot-be-opened-because-the-de
+If you are using MacBook, for the first time you would need to [unquarantine the chrome driver](https://stackoverflow.com/questions/60362018/macos-catalinav-10-15-3-error-chromedriver-cannot-be-opened-because-the-de
+). Open a terminal window at the location you have kept your chromedriver. The command you can use to do so is:
+`xattr -d com.apple.quarantine chromedriver`
+
 
 For accessing APIs, use postman which can be downloaded from: https://www.postman.com/downloads/
 
