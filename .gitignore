@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Output Files & other references
+
+output
+training_data
+Sounds
+nlp
