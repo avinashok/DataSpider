@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 # Output Files & other references
-
 output
 training_data
 Sounds
