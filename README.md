@@ -1,6 +1,6 @@
 # DataSpider
-This project is intended to develop an end-to-end web scraping methodology to collect data on specific contents. This is a Proof of Concept work to explore the art of possibility to generate data from open source internet.
-
+This project is intended to develop a tool which would enable a user to block certain specific contents from their feed. These content may include words/phrases, competitor ads, irritating pop-ups, etc.
+Alongside exploring Web Scraping & it's possibilities. Started as a webinar material for M.Sc Data analytics students.
 
 Collecting data from websites using an automated process is known as web scraping.
 
